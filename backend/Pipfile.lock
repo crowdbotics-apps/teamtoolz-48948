@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "f42a3c436609b7f22c8b70eaaf04fc77cca1e505c4969b82713770c75e16f9a6"
+            "sha256": "0633aed4ec99f9be66e120f706213ac21a4253776b0fbebee332f23f486e2946"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -103,6 +103,10 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==5.4.0"
+        },
+        "cb-django-core": {
+            "editable": true,
+            "path": "./modules/django_core"
         },
         "cb-django-google-appointment": {
             "editable": true,
