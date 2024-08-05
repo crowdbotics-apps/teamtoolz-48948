@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-appointment](modules/appointment)
 - [react-native-chat](modules/chat)
 - [react-native-splash](modules/splash)
+- [react-native-appointment-local](modules/appointment-local)
 
 # Getting started: Frontend
 
